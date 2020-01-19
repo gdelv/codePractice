@@ -11,4 +11,5 @@ function squareSum(numbers){
     return counter
     }
 
-console.log(squareSum([1,2]))
+console.log(squareSum([1,2,3,4]))
+
