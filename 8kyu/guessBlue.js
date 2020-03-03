@@ -27,3 +27,5 @@ const guessBlue = (blueStart, redStart, bluePulled, redPulled) => {
 }
 
 console.log(guessBlue(5, 5, 2, 3));
+console.log(guessBlue(5, 5, 2, 3));
+
